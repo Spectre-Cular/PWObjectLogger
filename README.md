@@ -2,7 +2,7 @@
 A very simple mod which logs the GUIDs and locations of any Lifmunk Effigy or Journal Entry upon collection
 
 ## How To Install
-- Download the latest release from the [releases page]()
+- Download the latest release from the [releases page](https://github.com/Spectre-Cular/PWObjectLogger/releases)
 - Extract to your root game directory (ie, `C:/SteamLibrary/steamapps/common/Palworld`)
 	- **NOTE:** If you already use UE4SS (ie, for other mods), make a backup of `<game_root>/Pal/Binaries/Win64/UE4SS.dll` because this will overwrite it with [a very specific release version](https://github.com/UE4SS-RE/RE-UE4SS/actions/runs/11236266667). Also make sure to disable any mods which have trouble working with this specific version of UE4SS in order to minimize bugs/crashes.
 - **OPTIONAL** - For a more visual logging experience, enable the UE4SS GUI console:
